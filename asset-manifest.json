@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/card-filter-animation/static/css/main.7d549473.css",
+    "main.js": "/card-filter-animation/static/js/main.29e64d0b.js",
+    "index.html": "/card-filter-animation/index.html",
+    "main.7d549473.css.map": "/card-filter-animation/static/css/main.7d549473.css.map",
+    "main.29e64d0b.js.map": "/card-filter-animation/static/js/main.29e64d0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d549473.css",
+    "static/js/main.29e64d0b.js"
+  ]
+}
